@@ -1,0 +1,36 @@
+/*
+Theme Name:     bundestobi
+Description:    Child theme for the Twenty Thriteen theme
+Author:         Tommy
+Template:       twentythirteen
+Version:        0.1.0
+*/
+@import url(http://fonts.googleapis.com/css?family=Lato:400,300,700);
+#secondary {
+  display: none; }
+
+#comments {
+  display: none; }
+
+#masthead {
+  display: none; }
+
+.entry-meta {
+  display: none; }
+
+#colophon {
+  display: none; }
+
+html {
+  background: url(img/tobi.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+body {
+  margin: 0;
+  padding: 0; }
+
+article {
+  display: none; }
